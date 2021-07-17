@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@700&display=swap');
+
+body {
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin: 20pt auto;
+    width: 700pt;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+.classification {
+    margin-left: 10pt;
+    width: 200pt;
+}
+
+.classification-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+.flashcard {
+    background-color: white;
+    border-color: black;
+    border-radius: 5pt;
+    border-style: solid;
+    color: black;
+    font-size: 12pt;
+    font-weight: normal;
+    margin: 5pt;
+    padding: 5pt;
+    text-align: center;
+}
+
+.flashcard-container {
+    border-radius: 3pt;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin-bottom: 30pt;
+    min-height: 50pt;
+    padding: 10pt;
+}
+
+.classification-flashcard-container {
+    border-radius: 3pt;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    margin-bottom: 30pt;
+    padding-bottom: 50pt;
+}
