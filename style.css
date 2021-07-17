@@ -4,7 +4,8 @@ body {
     font-family: 'IBM Plex Sans', sans-serif;
     margin: 20pt auto;
     width: 700pt;
-    background-image : url(pic1.jpg);
+    background-image : url(pic2.jpg);
+    background-size : cover;
 }
 
 h2 {
