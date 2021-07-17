@@ -2,16 +2,24 @@ export let infinitive = [
   "run",
   "eat",
   "sleep",
+  "swim",
+  "play",
+  "walk",
+  "sit",
 ];
 
 export let pastSimple = [
-  "mohit",
-  "prakhar",
-  "ragesh",
+  "delhi",
+  "cup",
+  "football",
+  "apple",
+  "court",
 ];
 
 export let pastParticiple = [
  "he",
   "she",
   "they",
+  "himself",
+  "it",
 ];
